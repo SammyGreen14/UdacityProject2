@@ -20,3 +20,4 @@ disaster_categories.csv: CSV file with the category data
 disaster_messages.csv: CSV file with the messages data in original language and English
 process_data.py: Python file that reads in and cleans the data
 train_classifier.py: Python file that trains the model using an ML Pipeline
+run.py: Python file that runs the process start to finish of ETL, ML Pipeline, and creating the app
